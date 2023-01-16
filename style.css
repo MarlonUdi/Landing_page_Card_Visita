@@ -1,0 +1,25 @@
+
+    *   { 
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+            }
+
+            body {
+                font-size: 100%;
+                background: white
+                }
+
+.cabecalho-imagem {
+    height: 150px;  
+  }
+
+  .conteudo-principal-imagem
+  {
+      height: 300px;  
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
